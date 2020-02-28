@@ -81,8 +81,8 @@ a:hover {
   text-align: left;
 }
 
-@media (max-width: 1040px) {
-  #title {
+@media (max-width: 1024px) {
+  #title .container-fluid {
     text-align: center;
   }
 
